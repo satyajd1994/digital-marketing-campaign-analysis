@@ -137,3 +137,31 @@ October generated the highest revenue, while April achieved the strongest revenu
 - Validate these patterns using actual campaign data before making budget decisions.
 
 *All results are based on synthetic data, and the currency is unspecified.*
+
+## 10. Device Performance Analysis
+
+The device-level analysis compared campaign performance across Mobile, Desktop, and Tablet.
+
+### Key Findings
+
+| Device | Records | Conversion Rate | CPA | ROAS |
+|---|---:|---:|---:|---:|
+| Tablet | 612 | 8.94% | 13.88 | 10.33x |
+| Desktop | 3,163 | 8.66% | 14.58 | 9.78x |
+| Mobile | 6,225 | 8.74% | 14.79 | 9.62x |
+
+### Business Interpretation
+
+- Tablet had the highest ROAS and conversion rate in the sample.
+- Mobile accounted for the largest volume of records and conversions.
+- Desktop performance fell between Tablet and Mobile on ROAS.
+- CTR was similar across devices, suggesting that clicks alone do not explain the differences in downstream performance.
+
+### Recommendations
+
+- Investigate Tablet performance while considering its smaller sample size.
+- Review Mobile landing-page experience and conversion efficiency.
+- Evaluate device performance using conversion volume, CPA, and ROAS together.
+- Validate findings with real campaign data before changing budgets.
+
+*All results are based on synthetic data. Currency is unspecified.*
