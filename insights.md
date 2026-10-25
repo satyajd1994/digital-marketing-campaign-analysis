@@ -184,3 +184,25 @@ The device-level analysis compared campaign performance across Mobile, Desktop, 
 4. Continue monitoring New Customer acquisition to assess its efficiency and potential for growth.
 
 *Note: These findings are based on synthetic campaign data created for analysis and are not real-world campaign results.*
+
+## 12. Country Performance Analysis
+
+### Key Findings
+
+- **The United States achieved the highest ROAS at 10.21x**, indicating the strongest revenue return relative to advertising spend among the countries analyzed.
+- **The United Kingdom recorded the lowest CPA at 14.00**, suggesting the lowest advertising cost per conversion.
+- **Singapore achieved the highest CTR at 4.78%**, showing the strongest click-through performance.
+- **India achieved a ROAS of 10.00x** and a CTR of 4.71%, demonstrating competitive campaign performance.
+- **Australia recorded the lowest ROAS at 9.22x**, while Germany had the lowest CTR at 4.52%.
+
+### Recommendations
+
+1. Investigate which campaigns and audience segments contribute to the strong US performance.
+2. Evaluate the UK's lower CPA to identify practices that may be useful in other markets.
+3. Review Singapore's ad creatives and targeting to understand its higher CTR.
+4. Investigate Australia's campaign costs and revenue performance to identify opportunities for improvement.
+5. Review Germany's click-through performance and consider testing alternative creatives and messaging.
+
+*Note: These findings are based on synthetic campaign data and do not represent actual market performance.*
+
+
