@@ -206,3 +206,27 @@ The device-level analysis compared campaign performance across Mobile, Desktop, 
 *Note: These findings are based on synthetic campaign data and do not represent actual market performance.*
 
 
+## 13. Top Campaign Performance Analysis
+
+### Key Findings
+
+- **Seasonal Newsletter (C015)** achieved the highest ROAS at 104.42x and the lowest CPA among the top 10 campaigns at 1.38.
+- **Customer Loyalty (C010)** ranked second with a ROAS of 94.51x and a CPA of 1.49.
+- **Email Offer (C008)** ranked third with a ROAS of 91.27x and a CPA of 1.54.
+- Email Marketing occupied the top three positions, suggesting strong performance for email campaigns within this synthetic dataset.
+- **Video Promotion (C007)** ranked fourth, achieving a ROAS of 27.42x.
+- Instagram campaigns Product Launch (C003) and New Collection (C011) achieved ROAS values of 18.02x and 17.44x, respectively.
+- **Search Conversion (C014)** ranked tenth among the selected campaigns, with a ROAS of 8.60x and a CPA of 16.65.
+
+### Recommendations
+
+1. Investigate the factors contributing to the high ROAS of the email campaigns.
+2. Compare email campaign costs and revenue calculations with those of paid advertising channels to ensure a fair comparison.
+3. Review the creative and targeting strategies used by the top-performing YouTube and Instagram campaigns.
+4. Investigate the cost efficiency of the Search Conversion campaign and identify possible improvements.
+5. Validate campaign-level findings before using them to make budget allocation decisions.
+
+*Note: These findings are based on synthetic campaign data and are intended for portfolio analysis and practice.*
+
+
+
