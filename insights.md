@@ -228,5 +228,26 @@ The device-level analysis compared campaign performance across Mobile, Desktop, 
 
 *Note: These findings are based on synthetic campaign data and are intended for portfolio analysis and practice.*
 
+## 14. Lowest Campaign Performance Analysis
+
+### Key Findings
+
+- **Lead Generation (C006)** recorded the lowest ROAS at 2.96x and the highest CPA at 48.67 among the 10 campaigns analyzed.
+- **B2B Webinar (C012)** had the second-lowest ROAS at 3.19x and a CPA of 44.64.
+- Both lowest-performing campaigns used LinkedIn Ads, highlighting an opportunity to investigate campaign targeting, costs, and conversion quality.
+- Google Ads campaigns Retargeting, Summer Sale, Flash Sale, and Search Conversion recorded ROAS values ranging from 7.68x to 8.60x.
+- Facebook and Instagram campaigns in this selected group generally had higher ROAS and lower CPA than the lowest-ranked LinkedIn campaigns.
+
+### Recommendations
+
+1. Review the targeting, audience fit, and conversion quality of the Lead Generation and B2B Webinar campaigns.
+2. Investigate LinkedIn Ads costs and determine whether these campaigns meet their business objectives.
+3. Review Google Ads keyword targeting, bidding, and campaign structure for potential efficiency improvements.
+4. Compare campaign profitability using product margins and other relevant business costs, rather than ROAS alone.
+5. Avoid pausing campaigns based on ROAS alone; consider their objectives, customer value, and contribution to the wider marketing strategy.
+
+*Note: These findings are based on synthetic campaign data created for portfolio analysis.*
+
+
 
 
