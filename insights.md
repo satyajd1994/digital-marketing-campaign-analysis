@@ -76,3 +76,38 @@ These are hypotheses to test against the query results, not confirmed findings.
 - Build an Excel dashboard with KPI summaries and channel comparisons.
 - Add charts for monthly trends, ROAS, CPA, and conversion rates.
 - Update this document with verified findings from the completed analysis.
+## 8. Channel Performance Findings
+
+The channel-level SQL analysis was executed against 10,000 synthetic campaign records.
+
+### Results
+
+| Channel | CTR | CPA | ROAS |
+|---|---:|---:|---:|
+| Email Marketing | 4.67% | 1.46 | 96.85x |
+| YouTube Ads | 4.62% | 5.39 | 27.42x |
+| Instagram Ads | 4.73% | 8.33 | 17.73x |
+| Facebook Ads | 4.68% | 10.23 | 13.68x |
+| Google Ads | 4.68% | 17.56 | 7.99x |
+| LinkedIn Ads | 4.73% | 46.57 | 3.08x |
+
+*All figures are based on synthetic data. Currency is unspecified.*
+
+### Observations
+
+1. Email Marketing had the highest calculated ROAS and lowest CPA in the sample.
+2. YouTube Ads ranked second by ROAS.
+3. Instagram Ads generated higher ROAS than Facebook Ads and Google Ads.
+4. LinkedIn Ads had the highest CPA and lowest ROAS in the sample.
+5. CTR values were relatively similar across channels, ranging from 4.62% to 4.73%. This illustrates why CTR alone is insufficient to assess campaign profitability.
+
+### Recommendations
+
+- Investigate why Email Marketing has such a high ROAS, including how costs are represented in the dataset.
+- Compare conversion quality and attributed revenue across channels before reallocating budgets.
+- Review LinkedIn acquisition costs alongside lead quality, customer lifetime value, and campaign objectives.
+- Validate the findings using actual business data before making real marketing decisions.
+
+### Limitations
+
+These figures are illustrative rather than evidence of actual advertising performance. The dataset is synthetic, and the analysis does not account for profit margins, attribution differences, or customer lifetime value.
