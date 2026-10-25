@@ -165,3 +165,22 @@ The device-level analysis compared campaign performance across Mobile, Desktop, 
 - Validate findings with real campaign data before changing budgets.
 
 *All results are based on synthetic data. Currency is unspecified.*
+
+## 11. Audience Segment Analysis
+
+### Key Findings
+
+- **Returning Customers achieved the highest ROAS at 10.03x**, along with the lowest CPA of 14.03.
+- **Students recorded the highest conversion rate at 8.92%**, indicating strong conversion performance after clicks.
+- **New Customers achieved a ROAS of 9.92x**, making them another strong-performing segment.
+- **Enterprise had the lowest ROAS at 9.06x**, the lowest conversion rate at 8.56%, and the highest CPA at 15.89.
+- Small Business and General Audience segments delivered similar results, with ROAS values of 9.82x and 9.76x, respectively.
+
+### Recommendations
+
+1. Investigate opportunities to engage returning customers, given their strong ROAS and low CPA.
+2. Review the campaigns targeting students to understand what contributes to their high conversion rate.
+3. Evaluate Enterprise campaign targeting, messaging, and costs to identify potential improvements.
+4. Continue monitoring New Customer acquisition to assess its efficiency and potential for growth.
+
+*Note: These findings are based on synthetic campaign data created for analysis and are not real-world campaign results.*
