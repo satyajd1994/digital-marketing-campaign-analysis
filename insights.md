@@ -111,3 +111,29 @@ The channel-level SQL analysis was executed against 10,000 synthetic campaign re
 ### Limitations
 
 These figures are illustrative rather than evidence of actual advertising performance. The dataset is synthetic, and the analysis does not account for profit margins, attribution differences, or customer lifetime value.
+
+## 9. Monthly Performance Analysis
+
+The monthly SQL analysis examined performance across all 12 months of the synthetic dataset.
+
+### Key Findings
+
+- October recorded the highest attributed revenue: 32,910,838.01.
+- February recorded the lowest attributed revenue: 25,934,352.71.
+- April achieved the highest ROAS at 10.76x.
+- March recorded the lowest ROAS at 9.07x.
+- April had the lowest CPA at 13.45.
+- January had the highest CPA at 15.69.
+
+### Business Interpretation
+
+October generated the highest revenue, while April achieved the strongest revenue return per unit of advertising spend. This illustrates that the month generating the most revenue is not necessarily the month with the highest ROAS.
+
+### Recommendations
+
+- Investigate the factors behind October's higher revenue.
+- Examine April's advertising costs and conversion efficiency.
+- Monitor CPA and ROAS together rather than relying on revenue alone.
+- Validate these patterns using actual campaign data before making budget decisions.
+
+*All results are based on synthetic data, and the currency is unspecified.*
